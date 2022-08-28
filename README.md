@@ -1,6 +1,7 @@
 <h1 align="left">Hey, I'm Ana >:3 </h1>
 <h3 align="left">A computer science student exploring the data science world and anothers stuffs</h3>
- - I'm a Computer Science student at [UDESC](https://www.udesc.br/cct)
+
+ - 👨‍💻 I'm a Computer Science student at [UDESC](https://www.udesc.br/cct) </h4>
  - 👷‍♂️ I’m currently working on [Match.mt](https://match.mt/)</h4>
  - 🌱 I’m currently learning about machine learning and computation graphics on my free time</h4>
 
