@@ -1,8 +1,8 @@
 <h1 align="left">Hey, I'm Ana >:3 </h1>
 <h3 align="left">A computer science student exploring the data science world and anothers stuffs</h3>
 
-<h4 align="left"> 👷‍♂️ I’m currently working on [Match.mt](https://match.mt/)</h4>
-<h4 align="left"> 🌱 I’m currently learning about machine learning and computation graphics on my free time</h4>
+ - 👷‍♂️ I’m currently working on [Match.mt](https://match.mt/)</h4>
+ - 🌱 I’m currently learning about machine learning and computation graphics on my free time</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
