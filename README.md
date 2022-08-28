@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ana</h1>
+<h1 align="center">Hey, I'm Ana >:3 </h1>
 <h3 align="center">A computer science student exploring the data science world and anothers stuffs</h3>
 
 - 🌱 I’m currently learning **about machine learning and computer graphic on my free time**
