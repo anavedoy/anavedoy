@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ana >:3 </h1>
 <h3 align="center">A computer science student exploring the data science world and anothers stuffs</h3>
 
-- 🌱 I’m currently learning **about machine learning and computer graphic on my free time**
+- 🌱 I’m currently learning **about machine learning and computation graphics on my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
