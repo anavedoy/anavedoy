@@ -4,7 +4,7 @@
  - 👨‍💻 I'm a Computer Science student at [UDESC](https://www.udesc.br/cct) </h4>
  - 👷‍♂️ I’m currently working on [Match.mt](https://match.mt/)</h4>
  - 🌱 I’m currently learning about machine learning and computation graphics on my free time</h4>
-<h3 align="rigth">Connect with me:    <a href="https://linkedin.com/in/anavedoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="30" width="20" /></a></h3> 
+<h3 align="rigth">Connect with me:    <a href="https://linkedin.com/in/anavedoy" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="30" width="20" /></a></h3> 
 
 
 <h3 align="left">Languages and Tools:</h3>
