@@ -5,10 +5,8 @@
  - 👷‍♂️ I’m currently working on [Match.mt](https://match.mt/)</h4>
  - 🌱 I’m currently learning about machine learning and computation graphics on my free time</h4>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anavedoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="12" width="16" /></a>
-</p>
+<h4 align="left">Connect with me:</h4> <a href="https://linkedin.com/in/anavedoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="12" width="16" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
