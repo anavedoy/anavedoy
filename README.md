@@ -8,7 +8,7 @@
  - 👷‍♂️ I’m currently working on [Match.mt](https://match.mt/)</h4>
  - 🌱 I’m currently learning about machine learning </h4>
 
-<img align="center" src=https://www.pngall.com/wp-content/uploads/12/Lines-Background-PNG.png alt="linha" width="500" height="40"/> </a> 
+<img align="center" src=https://www.pngall.com/wp-content/uploads/12/Lines-Background-PNG.png alt="linha" width="550" height="45"/> </a> 
 
 
 <h3 align="left">
