@@ -5,7 +5,7 @@
  - 👷‍♂️ I’m currently working on [Match.mt](https://match.mt/)</h4>
  - 🌱 I’m currently learning about machine learning and computation graphics on my free time</h4>
 
-<h3 align="rigth"> Connect with me :))    <a href="https://linkedin.com/in/anavedoy" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="20" width="20" /></a></h3> 
+<h3 align="rigth"> Connect with me :))    <a href="https://linkedin.com/in/anavedoy" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="20" width="20" /></a></h3> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anavedoy&layout=compact)](https://github.com/anavedoy/github-readme-stats)
 <h3 align="left">
