@@ -1,4 +1,7 @@
-<h1 align="left">Hey, I'm Ana >:3 </h1>
+<h1 align="left">
+ Hey, I'm Ana >:3  [<a href="https://linkedin.com/in/anavedoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="20" width="20"/></a>]
+</h1>
+
 <h3 align="left">A computer science student exploring the data science world and anothers stuffs</h3>
 
  - 👨‍💻 I'm a Computer Science student at [UDESC](https://www.udesc.br/cct) </h4>
@@ -8,21 +11,9 @@
 <img align="center" src=https://www.pngall.com/wp-content/uploads/12/Lines-Background-PNG.png alt="linha" width="500" height="40"/> </a> 
 
 
-<h3 align="rigth"> 
-Connect with me :))    
- <a href="https://linkedin.com/in/anavedoy" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="20" width="20" />
- </a>
-</h3> 
-
-
-<img align="center" src=https://www.pngall.com/wp-content/uploads/12/Lines-Background-PNG.png alt="linha" width="500" height="40"/> </a> 
-
-
-
 <h3 align="left">
- Languages and Tools:
-</h3>
-
+ Languages and Tools:   
+</h3> 
 
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
