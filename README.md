@@ -1,5 +1,5 @@
 <h1 align="left">
- Hey, I'm Ana >:3  [<a href="https://linkedin.com/in/anavedoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="20" width="20"/></a>]
+ Hey, I'm Ana >:3  [ <a href="https://linkedin.com/in/anavedoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="20" width="20"/></a> ]
 </h1>
 
 <h3 align="left">A computer science student exploring the data science world and anothers stuffs</h3>
