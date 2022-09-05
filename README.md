@@ -1,8 +1,10 @@
 <h1 align="left">
- Hey, I'm Ana >:3  [ <a href="https://www.linkedin.com/in/anavedoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="20" width="20"/></a> ]
+ Hey, I'm Ana >:3   
 </h1>
 
-<h3 align="left">A computer science student exploring the data science world and anothers stuffs</h3>
+<h3 align="left">A computer science student exploring the data science world and anothers stuffs
+<a href="https://www.linkedin.com/in/anavedoy/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="30" width="30"/></a> 
+</h3> 
 
  - 👨‍💻 I'm a Computer Science student at [UDESC](https://www.udesc.br/cct) </h4>
  - 👷‍♂️ I’m currently working on [Match.mt](https://match.mt/)</h4>
