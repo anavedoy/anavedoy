@@ -1,5 +1,5 @@
 <h1 align="left">
- Hey, I'm Ana >:3   
+ Hey, I'm Ana! 
 </h1>
 
 <h3 align="left">A computer science student exploring the data science world and other stuff
