@@ -7,8 +7,6 @@
 </h3> 
 
  - 👨‍💻 I'm a Computer Science student at [UDESC](https://www.udesc.br/cct) </h4>
- - 👷‍♂️ I’m currently working at [Match.mt](https://match.mt/)</h4>
- - 🌱 I’m currently learning about machine learning </h4>
 
 <img align="center" src=https://www.pngall.com/wp-content/uploads/12/Lines-Background-PNG.png alt="linha" width="550" height="45"/> </a> 
 
