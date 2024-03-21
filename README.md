@@ -2,11 +2,11 @@
  Hey, I'm Ana! 
 </h1>
 
-<h3 align="left">A computer science student 
+<h3 align="left">👨‍💻A computer science student at [UDESC](https://www.udesc.br/cct) 
 <a href="https://www.linkedin.com/in/anavedoy/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="30" width="30"/></a> 
 </h3> 
 
- - 👨‍💻 I'm a Computer Science student at [UDESC](https://www.udesc.br/cct) </h4>
+
 
 <img align="center" src=https://www.pngall.com/wp-content/uploads/12/Lines-Background-PNG.png alt="linha" width="550" height="45"/> </a> 
 
