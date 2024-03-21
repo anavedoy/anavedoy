@@ -2,7 +2,7 @@
  Hey, I'm Ana! 
 </h1>
 
-<h3 align="left">👨‍💻A computer science student at [UDESC](https://www.udesc.br/cct) 
+<h3 align="left">👨‍💻A computer science student at UDESC 
 <a href="https://www.linkedin.com/in/anavedoy/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anavedoy" height="30" width="30"/></a> 
 </h3> 
 
